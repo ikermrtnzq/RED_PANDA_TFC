@@ -1,0 +1,9 @@
+[
+	{ "id": 0, "nombre": "tienda.categorias.todos", "slug": "todos" },
+	{ "id": 1, "nombre": "tienda.categorias.sushi", "slug": "sushi" },
+	{ "id": 2, "nombre": "tienda.categorias.ramen", "slug": "ramen" },
+	{ "id": 3, "nombre": "tienda.categorias.carne", "slug": "carne" },
+	{ "id": 4, "nombre": "tienda.categorias.pescado", "slug": "pescado" },
+	{ "id": 5, "nombre": "tienda.categorias.postres", "slug": "postre" },
+	{ "id": 6, "nombre": "tienda.categorias.bebidas", "slug": "bebida" }
+]

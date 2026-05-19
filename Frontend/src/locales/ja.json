@@ -1,0 +1,282 @@
+{
+  "header": {
+    "titulo": "Red Panda",
+    "descripcion": "本格的なアジアの味",
+    "nav": {
+      "inicio": "ホーム",
+      "tienda": "ショップ"
+    },
+    "botones": {
+      "iniciar": "ログイン",
+      "perfil": "マイプロフィール"
+    }
+  },
+  "login": {
+    "email": "メール",
+    "pwd": "パスワード",
+    "placeHolderEmail": "your{'@'}email.com",
+    "placeHolderName": "あなたの名前",
+    "placeHolderPwd": "......",
+    "errorNombre": "無効",
+    "errorEmail": "無効",
+    "errorPwd": "無効",
+    "error": "認証情報が正しくありません",
+    "error2": "無効な認証情報",
+    "info": {
+      "infoInicio": {
+        "bienvenido": "おかえりなさい",
+        "ingresa": "アカウントにログインして、お気に入りの料理を楽しみましょう"
+      },
+      "infoRegistro": {
+        "bienvenido": "ようこそ",
+        "ingresa": "アカウントを作成して、最高のアジア料理を発見しましょう"
+      },
+      "pedido": {
+        "titulo": "スピーディー注文",
+        "descrip": "住所を保存して素早く支払い"
+      },
+      "historial": {
+        "titulo": "注文履歴",
+        "descrip": "お気に入りを簡単に再注文"
+      },
+      "ofertas": {
+        "titulo": "限定オファー",
+        "descrip": "割引や特別プロモーションを受け取る"
+      }
+    },
+    "formIniciar": {
+      "inicio": "ログイン",
+      "noInicio": "アカウントをお持ちでないですか？",
+      "regist": "登録"
+    },
+    "formRegistrar": {
+      "nombre": "氏名",
+      "inicio": "アカウント作成",
+      "noInicio": "すでにアカウントをお持ちですか？",
+      "regist": "ログイン",
+      "terminos": "登録することで、利用規約およびプライバシーポリシーに同意したことになります"
+    }
+  },
+  "ingredientes": {
+    "pers": "料理をカスタマイズ",
+    "select": "削除したい材料の選択を解除してください",
+    "cancel": "キャンセル",
+    "precio": "価格",
+    "añadir": "カートに追加"
+  },
+  "inicio": {
+    "descripcion": "本格的なアジアの味",
+    "descripcionSpan": " アジアから",
+    "descripcionLarga": "情熱を込めて作られた最高のアジア料理をご自宅までお届けします",
+    "tiempoEntrega": "30〜45分で配達",
+    "razones": "なぜ私たちを選ぶのか？",
+    "razonesOpciones": {
+      "titulos": {
+        "chef": "熟練シェフ",
+        "ingredientes": "新鮮な食材",
+        "entrega": "迅速な配達",
+        "calidad": "プレミアム品質"
+      },
+      "detalle": {
+        "chef": "アジア料理経験豊富なシェフたち",
+        "ingredientes": "毎日最高の食材を厳選しています",
+        "entrega": "30〜45分以内にお届け、または無料",
+        "calidad": "卓越した品質で受賞歴あり"
+      }
+    },
+    "especialidades": "おすすめ料理",
+    "especialidadesDescripcion": "本格料理のセレクションをご覧ください",
+    "especialidadesOpciones": {
+      "titulos": {
+        "sushi": "寿司",
+        "ramen": "ラーメン",
+        "gyozas": "餃子",
+        "bebidas": "ドリンク"
+      },
+      "detalle": {
+        "sushi": "新鮮で美味しい",
+        "ramen": "手作りスープ",
+        "gyozas": "完璧な一口",
+        "bebidas": "バブルティーなど"
+      }
+    },
+    "clientes": "お客様の声",
+    "clientesDescripcion": "何千人もの満足したお客様",
+    "clientesOpciones": {
+      "nombre": {
+        "nombre1": "María González",
+        "nombre2": "Carlos Ruiz",
+        "nombre3": "Laura Martin"
+      },
+      "comentarios": {
+        "comentario1": "\"今まで食べた中で最高の寿司！新鮮で美味しく、配達もとても速かったです。\"",
+        "comentario2": "\"ラーメンは素晴らしい、日本そのものの味です。本当におすすめ。\"",
+        "comentario3": "\"家族みんなで点心を注文しました。最高でした！また注文します。\""
+      }
+    },
+    "listo": "注文の準備はできましたか？",
+    "listoDescripcion": "今すぐ注文して、自宅で最高のアジア料理を楽しみましょう",
+    "botones": {
+      "pedir": "今すぐ注文",
+      "verMenu": "フルメニューを見る"
+    }
+  },
+  "tienda": {
+    "titulo": "メニュー",
+    "descripcion": "アジア料理の美味しさを発見",
+    "buscador": {
+      "buscar": "料理を検索",
+      "categ": "カテゴリー"
+    },
+    "categorias": {
+      "todos": "すべて",
+      "sushi": "寿司",
+      "ramen": "ラーメン",
+      "dimsum": "点心",
+      "principales": "メイン料理",
+      "bebidas": "ドリンク",
+      "carne": "肉",
+      "pescado": "魚",
+      "postres": "デザート",
+      "entrantes": "前菜"
+    },
+    "platos": {
+      "sushi_deluxe": {
+        "nombre": "寿司デラックス",
+        "desc": "新鮮な本日の魚を使ったプレミアム握りと巻き寿司"
+      },
+      "ramen_tonkotsu": {
+        "nombre": "豚骨ラーメン",
+        "desc": "12時間煮込んだ濃厚豚骨スープと手作り麺"
+      },
+      "dimsum_mix": {
+        "nombre": "点心盛り合わせ",
+        "desc": "エビ、豚肉、野菜入り蒸し点心6種の竹籠"
+      },
+      "pato_laqueado": {
+        "nombre": "北京ダック",
+        "desc": "薄餅、ネギ、海鮮醤ソース添えのパリパリダック"
+      }
+    },
+    "tarjeta-plato": {
+      "añadir": "追加"
+    }
+  },
+  "carrito": {
+    "continuar": "買い物を続ける",
+    "titulo": "カート",
+    "productos-cantidad": "件の商品がカートにあります",
+    "carrito-vacio": "カートは空です",
+    "propuesta-añadir": "美味しい料理をカートに追加しましょう",
+    "ver-menu": "メニューを見る",
+    "resumen": "注文概要",
+    "subtotal": "小計",
+    "envio": "配達",
+    "total": "合計",
+    "pago": "お支払いへ進む",
+    "estimo": "配達予定：30〜45分",
+    "envioGratis": "無料",
+    "envioGratisAlerta1": "あと",
+    "envioGratisAlerta2": "追加で送料無料",
+    "ingredientes": "削除された材料："
+  },
+  "alertas": {
+    "annadir": {
+      "titulo": "追加されました！",
+      "mensaje": "カートに追加されました。"
+    },
+    "eliminar": {
+      "titulo": "削除されました！",
+      "mensaje": "カートから削除されました。"
+    },
+    "exito": {
+      "titulo": "支払い成功！",
+      "mensaje": "お支払いが正常に完了しました。"
+    },
+    "verCarrito": "カートを見る",
+    "creado": {
+      "titulo": "作成完了",
+      "mensaje": "商品がメニューに正常に追加されました"
+    },
+    "logueado": {
+      "titulo": "ログイン成功",
+      "mensaje": "システムに正常にログインしました"
+    }
+  },
+  "footer": {
+    "descripcion": "新鮮な食材と伝統的なレシピで作る本格アジア料理。",
+    "titulos": {
+      "enlaces": "クイックリンク",
+      "contacto": "お問い合わせ",
+      "horario": "営業時間"
+    },
+    "contacto": {
+      "calle": "スペイン・マドリード メインストリート123",
+      "tlf": "+34 912 345 678",
+      "email": "info{'@'}redpanda.com"
+    },
+    "horario": {
+      "diario": "月曜 - 金曜: 12:00 - 23:00",
+      "findes": "土曜 - 日曜: 12:00 - 00:00"
+    },
+    "derechos": "© 2026 Red Panda. 無断転載禁止。"
+  },
+  "usuario": {
+    "perfil": "マイプロフィール",
+    "nombre": "名前",
+    "email": "メール",
+    "prefer": "言語設定",
+    "idiomas": {
+      "frances": "フランス語",
+      "ingles": "英語",
+      "chino": "中国語",
+      "catalan": "カタルーニャ語",
+      "español": "スペイン語",
+      "japones": "日本語"
+    },
+    "cerrar": "ログアウト",
+    "historial": "注文履歴"
+  },
+  "historialPedidos": {
+    "titulo": "注文履歴",
+    "tabla": {
+      "id": "注文ID",
+      "info": "状態 / 情報",
+      "total": "合計"
+    },
+    "detalles": {
+      "vacio": "注文履歴が見つかりません。"
+    }
+  },
+  "administrador": {
+    "titulo": "メニュー管理",
+    "opciones": {
+        "modificar": "メニューを編集",
+        "annadir": "メニューに追加"
+    },
+    "modificar": {
+        "titulo": "メニュー",
+        "nombre": "名前",
+        "categoria": "カテゴリー",
+        "precio": "価格",
+        "acciones": "操作"
+    },
+    "annadir": {
+        "titulo": "追加する項目を選択してください",
+        "seleccionar-elemento": "追加する項目を選択してください：",
+        "placeholder-elemento": "-- オプションを選択 --",
+        "nombre-label": "名前を入力してください：",
+        "nombre-placeholder": "名前.....",
+        "descripcion-label": "商品の説明：",
+        "descripcion-placeholder": "商品内容.....",
+        "precio-label": "価格 (€)：",
+        "precio-placeholder": "17€.....",
+        "cantidad-label": "数量：",
+        "cantidad-placeholder": "2.....",
+        "imagen-label": "画像：",
+        "imagen-placeholder": "画像URL.....",
+        "ingredientes": "材料",
+        "boton": "メニューに追加"
+    }
+}
+}

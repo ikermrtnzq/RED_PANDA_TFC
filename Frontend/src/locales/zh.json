@@ -1,0 +1,282 @@
+{
+  "header": {
+    "titulo": "Red Panda",
+    "descripcion": "正宗亚洲风味",
+    "nav": {
+      "inicio": "首页",
+      "tienda": "商店"
+    },
+    "botones": {
+      "iniciar": "登录",
+      "perfil": "我的资料"
+    }
+  },
+  "login": {
+    "email": "邮箱",
+    "pwd": "密码",
+    "placeHolderEmail": "your{'@'}email.com",
+    "placeHolderName": "你的名字",
+    "placeHolderPwd": "......",
+    "errorNombre": "错误",
+    "errorEmail": "错误",
+    "errorPwd": "错误",
+    "error": "凭证错误",
+    "error2": "无效凭证",
+    "info": {
+      "infoInicio": {
+        "bienvenido": "欢迎回来",
+        "ingresa": "登录您的账户并享受您最喜爱的菜品"
+      },
+      "infoRegistro": {
+        "bienvenido": "加入我们",
+        "ingresa": "创建账户并发现最好的亚洲风味"
+      },
+      "pedido": {
+        "titulo": "快速订单",
+        "descrip": "保存您的地址并更快付款"
+      },
+      "historial": {
+        "titulo": "订单历史",
+        "descrip": "轻松再次订购您最喜欢的菜品"
+      },
+      "ofertas": {
+        "titulo": "独家优惠",
+        "descrip": "接收折扣和特别促销"
+      }
+    },
+    "formIniciar": {
+      "inicio": "登录",
+      "noInicio": "还没有账户？",
+      "regist": "注册"
+    },
+    "formRegistrar": {
+      "nombre": "全名",
+      "inicio": "创建账户",
+      "noInicio": "已经有账户？",
+      "regist": "登录",
+      "terminos": "注册即表示您接受我们的条款与条件以及隐私政策"
+    }
+  },
+  "ingredientes": {
+    "pers": "自定义您的菜品",
+    "select": "取消选择您想移除的配料",
+    "cancel": "取消",
+    "precio": "价格",
+    "añadir": "加入购物车"
+  },
+  "inicio": {
+    "descripcion": "正宗亚洲风味",
+    "descripcionSpan": " 来自亚洲",
+    "descripcionLarga": "探索最好的亚洲美食，用热情烹饪并送到您家门口",
+    "tiempoEntrega": "30-45分钟送达",
+    "razones": "为什么选择我们？",
+    "razonesOpciones": {
+      "titulos": {
+        "chef": "专业厨师",
+        "ingredientes": "新鲜食材",
+        "entrega": "快速配送",
+        "calidad": "高级品质"
+      },
+      "detalle": {
+        "chef": "我们的厨师拥有多年亚洲料理经验",
+        "ingredientes": "我们每天精选最优质食材",
+        "entrega": "30-45分钟送达，否则免费",
+        "calidad": "因卓越品质而获奖"
+      }
+    },
+    "especialidades": "我们的特色菜",
+    "especialidadesDescripcion": "探索我们的正宗菜品精选",
+    "especialidadesOpciones": {
+      "titulos": {
+        "sushi": "寿司",
+        "ramen": "拉面",
+        "gyozas": "饺子",
+        "bebidas": "饮品"
+      },
+      "detalle": {
+        "sushi": "新鲜美味",
+        "ramen": "手工高汤",
+        "gyozas": "完美小吃",
+        "bebidas": "珍珠奶茶等"
+      }
+    },
+    "clientes": "顾客评价",
+    "clientesDescripcion": "成千上万满意的顾客",
+    "clientesOpciones": {
+      "nombre": {
+        "nombre1": "María González",
+        "nombre2": "Carlos Ruiz",
+        "nombre3": "Laura Martin"
+      },
+      "comentarios": {
+        "comentario1": "\"这是我吃过最好的寿司！新鲜、美味，而且送餐速度超快。\"",
+        "comentario2": "\"拉面太棒了，味道和日本的一模一样。强烈推荐。\"",
+        "comentario3": "\"我们为全家点了点心。太棒了！一定会再来。\""
+      }
+    },
+    "listo": "准备点餐了吗？",
+    "listoDescripcion": "立即下单，在家享受最好的亚洲风味",
+    "botones": {
+      "pedir": "立即下单",
+      "verMenu": "查看完整菜单"
+    }
+  },
+  "tienda": {
+    "titulo": "我们的菜单",
+    "descripcion": "发现我们的亚洲美食",
+    "buscador": {
+      "buscar": "搜索菜品",
+      "categ": "分类"
+    },
+    "categorias": {
+      "todos": "全部",
+      "sushi": "寿司",
+      "ramen": "拉面",
+      "dimsum": "点心",
+      "principales": "主菜",
+      "bebidas": "饮品",
+      "carne": "肉类",
+      "pescado": "鱼类",
+      "postres": "甜点",
+      "entrantes": "前菜"
+    },
+    "platos": {
+      "sushi_deluxe": {
+        "nombre": "豪华寿司",
+        "desc": "精选高级握寿司和卷寿司，搭配当天新鲜鱼类"
+      },
+      "ramen_tonkotsu": {
+        "nombre": "豚骨拉面",
+        "desc": "12小时熬制的浓郁猪骨汤配手工面"
+      },
+      "dimsum_mix": {
+        "nombre": "综合点心",
+        "desc": "竹篮蒸点6件：虾、猪肉和蔬菜"
+      },
+      "pato_laqueado": {
+        "nombre": "北京烤鸭",
+        "desc": "酥脆鸭肉配薄饼、葱和海鲜酱"
+      }
+    },
+    "tarjeta-plato": {
+      "añadir": "添加"
+    }
+  },
+  "carrito": {
+    "continuar": "继续购物",
+    "titulo": "你的购物车",
+    "productos-cantidad": "件商品在购物车中",
+    "carrito-vacio": "你的购物车为空",
+    "propuesta-añadir": "添加一些美味菜品到购物车",
+    "ver-menu": "查看菜单",
+    "resumen": "订单摘要",
+    "subtotal": "小计",
+    "envio": "配送",
+    "total": "总计",
+    "pago": "前往付款",
+    "estimo": "预计送达：30-45分钟",
+    "envioGratis": "免费",
+    "envioGratisAlerta1": "再添加",
+    "envioGratisAlerta2": "即可享受免费配送",
+    "ingredientes": "移除的配料："
+  },
+  "alertas": {
+    "annadir": {
+      "titulo": "已添加！",
+      "mensaje": "已加入购物车。"
+    },
+    "eliminar": {
+      "titulo": "已删除！",
+      "mensaje": "已从购物车移除。"
+    },
+    "exito": {
+      "titulo": "支付成功！",
+      "mensaje": "付款已成功完成。"
+    },
+    "verCarrito": "查看购物车",
+    "creado": {
+      "titulo": "已创建",
+      "mensaje": "产品已成功添加到菜单"
+    },
+    "logueado": {
+      "titulo": "登录成功",
+      "mensaje": "已成功登录系统"
+    }
+  },
+  "footer": {
+    "descripcion": "采用新鲜食材和传统食谱制作的正宗亚洲料理。",
+    "titulos": {
+      "enlaces": "快速链接",
+      "contacto": "联系方式",
+      "horario": "营业时间"
+    },
+    "contacto": {
+      "calle": "西班牙马德里主街123号",
+      "tlf": "+34 912 345 678",
+      "email": "info{'@'}redpanda.com"
+    },
+    "horario": {
+      "diario": "周一 - 周五：12:00 - 23:00",
+      "findes": "周六 - 周日：12:00 - 00:00"
+    },
+    "derechos": "© 2026 Red Panda. 版权所有。"
+  },
+  "usuario": {
+    "perfil": "我的资料",
+    "nombre": "姓名",
+    "email": "邮箱",
+    "prefer": "语言偏好",
+    "idiomas": {
+      "frances": "法语",
+      "ingles": "英语",
+      "chino": "中文",
+      "catalan": "加泰罗尼亚语",
+      "español": "西班牙语",
+      "japones": "日语"
+    },
+    "cerrar": "退出登录",
+    "historial": "订单历史"
+  },
+  "historialPedidos": {
+    "titulo": "我的订单",
+    "tabla": {
+      "id": "订单ID",
+      "info": "状态 / 信息",
+      "total": "总计"
+    },
+    "detalles": {
+      "vacio": "您的历史中未找到订单。"
+    }
+  },
+  "administrador": {
+    "titulo": "菜单管理",
+    "opciones": {
+        "modificar": "修改菜单",
+        "annadir": "添加到菜单"
+    },
+    "modificar": {
+        "titulo": "菜单",
+        "nombre": "名称",
+        "categoria": "类别",
+        "precio": "价格",
+        "acciones": "操作"
+    },
+    "annadir": {
+        "titulo": "请选择要添加的项目",
+        "seleccionar-elemento": "请选择要添加的项目：",
+        "placeholder-elemento": "-- 请选择一个选项 --",
+        "nombre-label": "输入名称：",
+        "nombre-placeholder": "名称.....",
+        "descripcion-label": "项目描述：",
+        "descripcion-placeholder": "包含.....",
+        "precio-label": "价格 (€)：",
+        "precio-placeholder": "17€.....",
+        "cantidad-label": "数量：",
+        "cantidad-placeholder": "2.....",
+        "imagen-label": "图片：",
+        "imagen-placeholder": "图片URL.....",
+        "ingredientes": "配料",
+        "boton": "添加到菜单"
+    }
+}
+}

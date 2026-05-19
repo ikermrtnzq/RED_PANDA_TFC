@@ -1,0 +1,282 @@
+{
+  "header": {
+    "titulo": "Red Panda",
+    "descripcion": "Authentic Flavors",
+    "nav": {
+      "inicio": "Home",
+      "tienda": "Shop"
+    },
+    "botones": {
+      "iniciar": "Login",
+      "perfil": "My Profile"
+    }
+  },
+  "login": {
+    "email": "Email",
+    "pwd": "Password",
+    "placeHolderEmail": "your{'@'}email.com",
+    "placeHolderName": "Your name",
+    "placeHolderPwd": "......",
+    "errorNombre": "incorrect",
+    "errorEmail": "incorrect",
+    "errorPwd": "incorrect",
+    "error": "Incorrect credentials",
+    "error2": "Invalid credentials",
+    "info": {
+      "infoInicio": {
+        "bienvenido": "Welcome back",
+        "ingresa": "Log into your account and enjoy your favorite meals"
+      },
+      "infoRegistro": {
+        "bienvenido": "Join us",
+        "ingresa": "Create an account and discover the best Asian flavors"
+      },
+      "pedido": {
+        "titulo": "Fast orders",
+        "descrip": "Save your addresses and pay faster"
+      },
+      "historial": {
+        "titulo": "Order history",
+        "descrip": "Order your favorites again easily"
+      },
+      "ofertas": {
+        "titulo": "Exclusive offers",
+        "descrip": "Receive discounts and special promotions"
+      }
+    },
+    "formIniciar": {
+      "inicio": "Login",
+      "noInicio": "Don't have an account?",
+      "regist": "Sign up"
+    },
+    "formRegistrar": {
+      "nombre": "Full name",
+      "inicio": "Create Account",
+      "noInicio": "Already have an account?",
+      "regist": "Login",
+      "terminos": "By registering, you accept our Terms and Conditions and Privacy Policy"
+    }
+  },
+  "ingredientes": {
+    "pers": "Customize your dish",
+    "select": "Deselect the ingredients you want to remove",
+    "cancel": "Cancel",
+    "precio": "Price",
+    "añadir": "Add to cart"
+  },
+  "inicio": {
+    "descripcion": "Authentic Flavors",
+    "descripcionSpan": " from Asia",
+    "descripcionLarga": "Discover the best Asian food, prepared with passion and delivered to your door",
+    "tiempoEntrega": "Delivery in 30-45 minutes",
+    "razones": "Why Choose Us?",
+    "razonesOpciones": {
+      "titulos": {
+        "chef": "Expert Chefs",
+        "ingredientes": "Fresh Ingredients",
+        "entrega": "Fast Delivery",
+        "calidad": "Premium Quality"
+      },
+      "detalle": {
+        "chef": "Our chefs have years of experience in Asian cuisine",
+        "ingredientes": "We select the best ingredients every day",
+        "entrega": "Your order in 30-45 minutes or free",
+        "calidad": "Awarded for our excellence"
+      }
+    },
+    "especialidades": "Our specialties",
+    "especialidadesDescripcion": "Explore our selection of authentic dishes",
+    "especialidadesOpciones": {
+      "titulos": {
+        "sushi": "Sushi",
+        "ramen": "Ramen",
+        "gyozas": "Gyozas",
+        "bebidas": "Drinks"
+      },
+      "detalle": {
+        "sushi": "Fresh and delicious",
+        "ramen": "Artisanal broths",
+        "gyozas": "Perfect bites",
+        "bebidas": "Bubble tea and more"
+      }
+    },
+    "clientes": "What Our Customers Say",
+    "clientesDescripcion": "Thousands of satisfied customers",
+    "clientesOpciones": {
+      "nombre": {
+        "nombre1": "María González",
+        "nombre2": "Carlos Ruiz",
+        "nombre3": "Laura Martin"
+      },
+      "comentarios": {
+        "comentario1": "\"The best sushi I've ever had! Fresh, delicious, and delivery was super fast.\"",
+        "comentario2": "\"The ramen is incredible, it tastes exactly like in Japan. Totally recommended.\"",
+        "comentario3": "\"We ordered dim sum for the whole family. Spectacular! We'll definitely order again.\""
+      }
+    },
+    "listo": "Ready to Order?",
+    "listoDescripcion": "Place your order now and enjoy the best Asian flavors at home",
+    "botones": {
+      "pedir": "Order Now",
+      "verMenu": "View Full Menu"
+    }
+  },
+  "tienda": {
+    "titulo": "Our Menu",
+    "descripcion": "Discover our Asian delights",
+    "buscador": {
+      "buscar": "Search dishes",
+      "categ": "Categories"
+    },
+    "categorias": {
+      "todos": "All",
+      "sushi": "Sushi",
+      "ramen": "Ramen",
+      "dimsum": "Dim Sum",
+      "principales": "Main dishes",
+      "bebidas": "Drinks",
+      "carne": "Meat",
+      "pescado": "Fish",
+      "postres": "Desserts",
+      "entrantes": "Starters"
+    },
+    "platos": {
+      "sushi_deluxe": {
+        "nombre": "Sushi Deluxe",
+        "desc": "Premium selection of nigiri and maki with fresh fish of the day"
+      },
+      "ramen_tonkotsu": {
+        "nombre": "Tonkotsu Ramen",
+        "desc": "Creamy pork broth cooked for 12 hours with handmade noodles"
+      },
+      "dimsum_mix": {
+        "nombre": "Mixed Dim Sum",
+        "desc": "Bamboo basket with 6 steamed pieces: shrimp, pork, and vegetables"
+      },
+      "pato_laqueado": {
+        "nombre": "Peking Duck",
+        "desc": "Crispy duck served with thin pancakes, spring onion, and hoisin sauce"
+      }
+    },
+    "tarjeta-plato": {
+      "añadir": "Add"
+    }
+  },
+  "carrito": {
+    "continuar": "Continue shopping",
+    "titulo": "Your Cart",
+    "productos-cantidad": "products in your cart",
+    "carrito-vacio": "Your cart is empty",
+    "propuesta-añadir": "Add some delicious dishes to your cart",
+    "ver-menu": "View Menu",
+    "resumen": "Order Summary",
+    "subtotal": "Subtotal",
+    "envio": "Shipping",
+    "total": "Total",
+    "pago": "Proceed to Checkout",
+    "estimo": "Estimated delivery: 30-45 min",
+    "envioGratis": "FREE",
+    "envioGratisAlerta1": "Add",
+    "envioGratisAlerta2": "more for free shipping",
+    "ingredientes": "Removed ingredients: "
+  },
+  "alertas": {
+    "annadir": {
+      "titulo": "ADDED!",
+      "mensaje": "has been added to the cart."
+    },
+    "eliminar": {
+      "titulo": "REMOVED!",
+      "mensaje": "has been removed from the cart."
+    },
+    "exito": {
+      "titulo": "PAYMENT SUCCESSFUL!",
+      "mensaje": "The payment has been completed successfully."
+    },
+    "verCarrito": "View cart",
+    "creado": {
+      "titulo": "CREATED",
+      "mensaje": "The product has been successfully added to the menu"
+    },
+    "logueado": {
+      "titulo": "LOGIN SUCCESSFUL",
+      "mensaje": "Successfully logged into the system"
+    }
+  },
+  "footer": {
+    "descripcion": "Authentic Asian food prepared with fresh ingredients and traditional recipes.",
+    "titulos": {
+      "enlaces": "Quick Links",
+      "contacto": "Contact",
+      "horario": "Opening Hours"
+    },
+    "contacto": {
+      "calle": "123 Main Street, Madrid, Spain",
+      "tlf": "+34 912 345 678",
+      "email": "info{'@'}redpanda.com"
+    },
+    "horario": {
+      "diario": "Monday - Friday: 12:00 - 23:00",
+      "findes": "Saturday - Sunday: 12:00 - 00:00"
+    },
+    "derechos": "© 2026 Red Panda. All rights reserved."
+  },
+  "usuario": {
+    "perfil": "My Profile",
+    "nombre": "Name",
+    "email": "Email",
+    "prefer": "Language preference",
+    "idiomas": {
+      "frances": "French",
+      "ingles": "English",
+      "chino": "Chinese",
+      "catalan": "Catalan",
+      "español": "Spanish",
+      "japones": "Japanese"
+    },
+    "cerrar": "Logout",
+    "historial": "Order History"
+  },
+  "historialPedidos": {
+    "titulo": "My Orders",
+    "tabla": {
+      "id": "Order ID",
+      "info": "Status / Info",
+      "total": "Total"
+    },
+    "detalles": {
+      "vacio": "No orders were found in your history."
+    }
+  },
+  "administrador": {
+    "titulo": "MENU MANAGEMENT",
+    "opciones": {
+        "modificar": "EDIT MENU",
+        "annadir": "ADD TO MENU"
+    },
+    "modificar": {
+        "titulo": "MENU",
+        "nombre": "Name",
+        "categoria": "Category",
+        "precio": "Price",
+        "acciones": "Actions"
+    },
+    "annadir": {
+        "titulo": "SELECT THE ITEM TO ADD",
+        "seleccionar-elemento": "Select the item to add:",
+        "placeholder-elemento": "-- Choose an option --",
+        "nombre-label": "Enter its name:",
+        "nombre-placeholder": "name.....",
+        "descripcion-label": "Item description:",
+        "descripcion-placeholder": "item with.....",
+        "precio-label": "Price in €:",
+        "precio-placeholder": "17€.....",
+        "cantidad-label": "Quantity:",
+        "cantidad-placeholder": "2.....",
+        "imagen-label": "Image:",
+        "imagen-placeholder": "Image URL.....",
+        "ingredientes": "Ingredients",
+        "boton": "ADD TO MENU"
+    }
+}
+}

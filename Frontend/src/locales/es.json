@@ -1,0 +1,283 @@
+{
+	"header": {
+		"titulo": "Red Panda",
+		"descripcion": "Sabores Auténticos",
+		"nav": {
+			"inicio": "Inicio",
+			"tienda": "Tienda"
+		},
+		"botones": {
+			"iniciar": "Iniciar Sesión",
+			"perfil" : "Mi Perfil"
+		}
+	},
+	"login": {
+		"email": "Email",
+		"pwd": "Contraseña",
+		"placeHolderEmail": "tu{'@'}email.com",
+		"placeHolderName": "Tu nombre",
+		"placeHolderPwd": "......",
+		"errorNombre": "incorrecto",
+		"errorEmail": "incorrecto",
+		"errorPwd": "incorrecto",
+		"error" : "Credenciales incorrectas",
+		"error2" : "Credenciales no validas",
+		"info": {
+			"infoInicio": {
+				"bienvenido": "Bienvenido de nuevo",
+				"ingresa": "Ingresa a tu cuenta y disfruta de tus planes favoritos"
+			},
+			"infoRegistro": {
+				"bienvenido": "Únete a nosotros",
+				"ingresa": "Crea una cuenta y descubre los mejores sabores asiáticos"
+			},
+			"pedido": {
+				"titulo": "Pedidos rápidos",
+				"descrip": "Guarda tus direcciones y paga mas rápido"
+			},
+			"historial": {
+				"titulo": "Historial de pedidos",
+				"descrip": "Vuelve a pedir tus favoritos fácilmente"
+			},
+			"ofertas": {
+				"titulo": "Ofertas exclusivas",
+				"descrip": "Recibe descuentos y promociones especiales"
+			}
+		},
+		"formIniciar": {
+			"inicio": "Iniciar Sesión",
+			"noInicio": "¿No tienes cuenta?",
+			"regist": "Regístrate"
+		},
+		"formRegistrar": {
+			"nombre": "Nombre completo",
+			"inicio": "Crear Cuenta",
+			"noInicio": "¿Ya tienes cuenta?",
+			"regist": "Inicia Sesión",
+			"terminos": "Al registrarte, aceptas nuestros Términos y Condiciones y Política de Privacidad"
+		}
+	},
+	"ingredientes": {
+		"pers": "Personaliza tu plato",
+		"select": "Deselecciona los ingredientes que deseas eliminar",
+		"cancel": "Cancelar",
+		"precio": "Precio",
+		"añadir":"Añadir al carrito"
+	},
+	"inicio": {
+		"descripcion": "Sabores Auténticos",
+		"descripcionSpan": " de Asia",
+		"descripcionLarga": "Descubre la mejor comida asiática, preparada con pasión y entregada en tu puerta",
+		"tiempoEntrega": "Entrega en 30-45 minutos",
+		"razones": "¿Por Qué Elegirnos?",
+		"razonesOpciones": {
+			"titulos": {
+				"chef": "Chefs Expertos",
+				"ingredientes": "Ingredientes Frescos",
+				"entrega": "Entrega Rápida",
+				"calidad": "Calidad Premium"
+			},
+			"detalle": {
+				"chef": "Nuestros chefs con años de experiencia en cocina asiatica",
+				"ingredientes": "Seleccionamos los mejores ingredientes cada dia",
+				"entrega": "Tu pedido en 30-45 minutos o gratis",
+				"calidad": "Premiados por nuestra excelencia"
+			}
+		},
+		"especialidades": "Nuestras especialidades",
+		"especialidadesDescripcion": "Explora nuestra selección de platos auténticos",
+		"especialidadesOpciones": {
+			"titulos": {
+				"sushi": "Sushi",
+				"ramen": "Ramen",
+				"gyozas": "Gyozas",
+				"bebidas": "Bebidas"
+			},
+			"detalle": {
+				"sushi": "Fresco y delicioso",
+				"ramen": "Caldos artesanales",
+				"gyozas": "Bocados perfectos",
+				"bebidas": "Bubble tea y más"
+			}
+		},
+		"clientes": "Lo Que Dicen Nuestros Clientes",
+		"clientesDescripcion": "Miles de clientes satisfechos",
+		"clientesOpciones": {
+			"nombre": {
+				"nombre1": "María González",
+				"nombre2": "Carlos Ruiz",
+				"nombre3": "Laura Martin"
+			},
+			"comentarios": {
+				"comentario1": "\"¡El mejor sushi que he probado! Fresco, delicioso y la entrega fue rapidísima.\"",
+				"comentario2": "\"El ramen es increíble, sabe exactamente como en Japón. Totalmente recomendado.\"",
+				"comentario3": "\"Pedimos dim sum para toda la familia. ¡Espectacular! Repetiremos seguro.\""
+			}
+		},
+		"listo": "¿Listo Para Ordenar?",
+		"listoDescripcion": "Haz tu pedido ahora y disfruta de los mejores sabores asiáticos en casa",
+		"botones": {
+			"pedir": "Pedir Ahora",
+			"verMenu": "Ver Menú Completo"
+		}
+	},
+	"tienda":{
+		"titulo": "Nuestro Menú",
+		"descripcion": "Descubre nuestras delicias asiáticas",
+		"buscador": {
+			"buscar": "Buscar platos",
+			"categ": "Categorías"
+		},
+		"categorias": {
+			"todos": "Todos",
+			"sushi": "Sushi",
+			"ramen": "Ramen",
+			"dimsum": "Dim Sum",
+			"principales": "Platos principales",
+			"bebidas": "Bebidas",
+			"carne": "Carne",
+			"pescado": "Pescado",
+			"postres": "Postres",
+			"entrantes": "Entrantes"
+		},
+		"platos": {
+			"sushi_deluxe": {
+				"nombre": "Sushi Deluxe",
+				"desc": "Selección premium de nigiri y maki con pescado fresco del día"
+			},
+			"ramen_tonkotsu": {
+				"nombre": "Ramen Tonkotsu",
+				"desc": "Caldo de cerdo cremoso cocinado durante 12 horas con fideos artesanales"
+			},
+			"dimsum_mix": {
+				"nombre": "Dim Sum Variado",
+				"desc": "Cesta de bambú con 6 piezas al vapor: gambas, cerdo y verduras"
+			},
+			"pato_laqueado": {
+				"nombre": "Pato Laqueado",
+				"desc": "Pato crujiente servido con crepes finos, cebolleta y salsa hoisin"
+			}
+		},
+		"tarjeta-plato": {
+			"añadir": "Añadir"
+		}
+	},
+	"carrito": {
+		"continuar": "Continuar comprando",
+		"titulo": "Tu Carrito",
+		"productos-cantidad": "productos en tu carrito",
+		"carrito-vacio": "Tu carrito está vacío",
+		"propuesta-añadir": "Añade algunos deliciosos platos a tu carrito",
+		"ver-menu": "Ver Menú",
+		"resumen": "Resumen del Pedido",
+		"subtotal": "Subtotal",
+		"envio": "Envío",
+		"total":"Total",
+		"pago": "Proceder al Pago",
+		"estimo": "Entrega estimada: 30-45 min",
+		"envioGratis":"GRATIS",
+		"envioGratisAlerta1": "Añade",
+		"envioGratisAlerta2": "más para envío gratis",
+		"ingredientes" : "Ingredientes eliminados: "
+	},
+	"alertas": {
+		"annadir": {
+			"titulo": "¡AÑADIDO!",
+			"mensaje": "se ha añadido al carrito."
+		},
+		"eliminar": {
+			"titulo": "¡ELIMINADO!",
+			"mensaje": "ha sido eliminado del carrito."
+		},
+		"exito": {
+			"titulo": "¡PAGO EXITOSO!",
+			"mensaje": "Se ha realizado el pago exitosamente."
+		},
+		"verCarrito": "Ver carrito",
+		"creado":{
+			"titulo" : "CREADO",
+			"mensaje": "El producto se ha añadido correctamente a la carta"
+		},
+		"logueado":{
+			"titulo" : "LOGIN EXITOSO",
+			"mensaje": "Se ha logueado exitosamente en el sistema"
+		}
+
+	},
+	"footer": {
+		"descripcion": "Auténtica comida asiática preparada con ingredientes frescos y recetas tradicionales.",
+		"titulos": {
+			"enlaces": "Enlaces Rápidos",
+			"contacto": "Contacto",
+			"horario": "Horario"
+		},
+		"contacto": {
+			"calle": "Calle Principal 123, Madrid, España",
+			"tlf": "+34 912 345 678",
+			"email": "info{'@'}redpanda.com"
+		},
+		"horario": {
+			"diario": "Lunes - Viernes: 12:00 - 23:00",
+			"findes": "Sábado - Domingo: 12:00 - 00:00"
+		},
+		"derechos": "© 2026 Red Panda. Todos los derechos reservados."
+	},
+	"usuario": {
+		"perfil": "Mi Perfil",
+		"nombre": "Nombre",
+		"email": "Email",
+		"prefer": "Preferencia de idioma",
+		"idiomas": {
+			"frances": "Frances",
+			"ingles": "Ingles",
+			"chino": "Chino",
+			"catalan": "Catalan",
+			"español": "Español",
+			"japones": "Japones"
+		},
+		"cerrar": "Cerrar Sesión",
+		"historial": "Historial de Pedidos"
+	},
+	"historialPedidos": {
+        "titulo": "Mis Pedidos",
+        "tabla": {
+            "id": "ID Pedido",
+            "info": "Estado / Info",
+            "total": "Total"
+        },
+        "detalles": {
+            "vacio": "No se han encontrado pedidos en tu historial."
+        }
+    },"administrador": {
+    "titulo": "GESTION DE LA CARTA",
+    "opciones": {
+        "modificar": "MODIFICAR CARTA",
+        "annadir": "AÑADIR A LA CARTA"
+    },
+    "modificar": {
+        "titulo": "CARTA",
+        "nombre": "Nombre",
+        "categoria": "Categoría",
+        "precio": "Precio",
+        "acciones": "Acciones"
+    },
+    "annadir": {
+        "titulo": "SELECCIONA EL ELEMENTO A AÑADIR",
+        "seleccionar-elemento": "Seleccione el elemento a introducir:",
+        "placeholder-elemento": "-- Elige una opción --",
+        "nombre-label": "Introduzca su nombre:",
+        "nombre-placeholder": "nombre.....",
+        "descripcion-label": "Descripción del elemento:",
+        "descripcion-placeholder": "elemento con.....",
+        "precio-label": "Precio en €:",
+        "precio-placeholder": "17€.....",
+        "cantidad-label": "Cantidad:",
+        "cantidad-placeholder": "2.....",
+        "imagen-label": "Imagen:",
+        "imagen-placeholder": "URL de la imagen.....",
+        "ingredientes": "Ingredientes",
+        "boton": "AÑADIR A LA CARTA"
+    }
+}
+
+}

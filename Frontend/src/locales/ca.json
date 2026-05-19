@@ -1,0 +1,282 @@
+{
+  "header": {
+    "titulo": "Red Panda",
+    "descripcion": "Sabors Autèntics",
+    "nav": {
+      "inicio": "Inici",
+      "tienda": "Botiga"
+    },
+    "botones": {
+      "iniciar": "Inicia Sessió",
+      "perfil": "El Meu Perfil"
+    }
+  },
+  "login": {
+    "email": "Correu electrònic",
+    "pwd": "Contrasenya",
+    "placeHolderEmail": "elteu{'@'}email.com",
+    "placeHolderName": "El teu nom",
+    "placeHolderPwd": "......",
+    "errorNombre": "incorrecte",
+    "errorEmail": "incorrecte",
+    "errorPwd": "incorrecte",
+    "error": "Credencials incorrectes",
+    "error2": "Credencials no vàlides",
+    "info": {
+      "infoInicio": {
+        "bienvenido": "Benvingut de nou",
+        "ingresa": "Accedeix al teu compte i gaudeix dels teus plats preferits"
+      },
+      "infoRegistro": {
+        "bienvenido": "Uneix-te a nosaltres",
+        "ingresa": "Crea un compte i descobreix els millors sabors asiàtics"
+      },
+      "pedido": {
+        "titulo": "Comandes ràpides",
+        "descrip": "Desa les teves adreces i paga més ràpid"
+      },
+      "historial": {
+        "titulo": "Historial de comandes",
+        "descrip": "Torna a demanar els teus favorits fàcilment"
+      },
+      "ofertas": {
+        "titulo": "Ofertes exclusives",
+        "descrip": "Rep descomptes i promocions especials"
+      }
+    },
+    "formIniciar": {
+      "inicio": "Inicia Sessió",
+      "noInicio": "No tens compte?",
+      "regist": "Registra't"
+    },
+    "formRegistrar": {
+      "nombre": "Nom complet",
+      "inicio": "Crear Compte",
+      "noInicio": "Ja tens compte?",
+      "regist": "Inicia Sessió",
+      "terminos": "En registrar-te, acceptes els nostres Termes i Condicions i la Política de Privacitat"
+    }
+  },
+  "ingredientes": {
+    "pers": "Personalitza el teu plat",
+    "select": "Desselecciona els ingredients que vols eliminar",
+    "cancel": "Cancel·lar",
+    "precio": "Preu",
+    "añadir": "Afegir a la cistella"
+  },
+  "inicio": {
+    "descripcion": "Sabors Autèntics",
+    "descripcionSpan": " d’Àsia",
+    "descripcionLarga": "Descobreix el millor menjar asiàtic, preparat amb passió i lliurat a casa teva",
+    "tiempoEntrega": "Entrega en 30-45 minuts",
+    "razones": "Per Què Escollir-nos?",
+    "razonesOpciones": {
+      "titulos": {
+        "chef": "Xefs Experts",
+        "ingredientes": "Ingredients Frescos",
+        "entrega": "Entrega Ràpida",
+        "calidad": "Qualitat Premium"
+      },
+      "detalle": {
+        "chef": "Els nostres xefs tenen anys d’experiència en cuina asiàtica",
+        "ingredientes": "Seleccionem els millors ingredients cada dia",
+        "entrega": "La teva comanda en 30-45 minuts o gratis",
+        "calidad": "Premiats per la nostra excel·lència"
+      }
+    },
+    "especialidades": "Les Nostres Especialitats",
+    "especialidadesDescripcion": "Explora la nostra selecció de plats autèntics",
+    "especialidadesOpciones": {
+      "titulos": {
+        "sushi": "Sushi",
+        "ramen": "Ramen",
+        "gyozas": "Gyozes",
+        "bebidas": "Begudes"
+      },
+      "detalle": {
+        "sushi": "Fresc i deliciós",
+        "ramen": "Brous artesanals",
+        "gyozas": "Mossegades perfectes",
+        "bebidas": "Bubble tea i més"
+      }
+    },
+    "clientes": "Què Diuen Els Nostres Clients",
+    "clientesDescripcion": "Milers de clients satisfets",
+    "clientesOpciones": {
+      "nombre": {
+        "nombre1": "María González",
+        "nombre2": "Carlos Ruiz",
+        "nombre3": "Laura Martin"
+      },
+      "comentarios": {
+        "comentario1": "\"El millor sushi que he tastat mai! Fresc, deliciós i l’entrega va ser rapidíssima.\"",
+        "comentario2": "\"El ramen és increïble, té exactament el mateix gust que al Japó. Totalment recomanat.\"",
+        "comentario3": "\"Vam demanar dim sum per a tota la família. Espectacular! Repetirem segur.\""
+      }
+    },
+    "listo": "Preparat Per Demanar?",
+    "listoDescripcion": "Fes la teva comanda ara i gaudeix dels millors sabors asiàtics a casa",
+    "botones": {
+      "pedir": "Demana Ara",
+      "verMenu": "Veure Menú Complet"
+    }
+  },
+  "tienda": {
+    "titulo": "El Nostre Menú",
+    "descripcion": "Descobreix les nostres delícies asiàtiques",
+    "buscador": {
+      "buscar": "Buscar plats",
+      "categ": "Categories"
+    },
+    "categorias": {
+      "todos": "Tots",
+      "sushi": "Sushi",
+      "ramen": "Ramen",
+      "dimsum": "Dim Sum",
+      "principales": "Plats principals",
+      "bebidas": "Begudes",
+      "carne": "Carn",
+      "pescado": "Peix",
+      "postres": "Postres",
+      "entrantes": "Entrants"
+    },
+    "platos": {
+      "sushi_deluxe": {
+        "nombre": "Sushi Deluxe",
+        "desc": "Selecció premium de nigiri i maki amb peix fresc del dia"
+      },
+      "ramen_tonkotsu": {
+        "nombre": "Ramen Tonkotsu",
+        "desc": "Brou cremós de porc cuinat durant 12 hores amb fideus artesanals"
+      },
+      "dimsum_mix": {
+        "nombre": "Dim Sum Variat",
+        "desc": "Cistella de bambú amb 6 peces al vapor: gambes, porc i verdures"
+      },
+      "pato_laqueado": {
+        "nombre": "Ànec Lacat",
+        "desc": "Ànec cruixent servit amb creps fines, ceba tendra i salsa hoisin"
+      }
+    },
+    "tarjeta-plato": {
+      "añadir": "Afegir"
+    }
+  },
+  "carrito": {
+    "continuar": "Continuar comprant",
+    "titulo": "La Teva Cistella",
+    "productos-cantidad": "productes a la teva cistella",
+    "carrito-vacio": "La teva cistella està buida",
+    "propuesta-añadir": "Afegeix alguns plats deliciosos a la teva cistella",
+    "ver-menu": "Veure Menú",
+    "resumen": "Resum de la Comanda",
+    "subtotal": "Subtotal",
+    "envio": "Enviament",
+    "total": "Total",
+    "pago": "Procedir al Pagament",
+    "estimo": "Entrega estimada: 30-45 min",
+    "envioGratis": "GRATUÏT",
+    "envioGratisAlerta1": "Afegeix",
+    "envioGratisAlerta2": "més per a enviament gratuït",
+    "ingredientes": "Ingredients eliminats: "
+  },
+  "alertas": {
+    "annadir": {
+      "titulo": "AFEGIT!",
+      "mensaje": "s'ha afegit a la cistella."
+    },
+    "eliminar": {
+      "titulo": "ELIMINAT!",
+      "mensaje": "s'ha eliminat de la cistella."
+    },
+    "exito": {
+      "titulo": "PAGAMENT EXITÓS!",
+      "mensaje": "El pagament s'ha realitzat correctament."
+    },
+    "verCarrito": "Veure cistella",
+    "creado": {
+      "titulo": "CREAT",
+      "mensaje": "El producte s'ha afegit correctament al menú"
+    },
+    "logueado": {
+      "titulo": "LOGIN EXITÓS",
+      "mensaje": "S'ha iniciat sessió correctament al sistema"
+    }
+  },
+  "footer": {
+    "descripcion": "Autèntic menjar asiàtic preparat amb ingredients frescos i receptes tradicionals.",
+    "titulos": {
+      "enlaces": "Enllaços Ràpids",
+      "contacto": "Contacte",
+      "horario": "Horari"
+    },
+    "contacto": {
+      "calle": "Carrer Principal 123, Madrid, Espanya",
+      "tlf": "+34 912 345 678",
+      "email": "info{'@'}redpanda.com"
+    },
+    "horario": {
+      "diario": "Dilluns - Divendres: 12:00 - 23:00",
+      "findes": "Dissabte - Diumenge: 12:00 - 00:00"
+    },
+    "derechos": "© 2026 Red Panda. Tots els drets reservats."
+  },
+  "usuario": {
+    "perfil": "El Meu Perfil",
+    "nombre": "Nom",
+    "email": "Correu electrònic",
+    "prefer": "Preferència d’idioma",
+    "idiomas": {
+      "frances": "Francès",
+      "ingles": "Anglès",
+      "chino": "Xinès",
+      "catalan": "Català",
+      "español": "Espanyol",
+      "japones": "Japonès"
+    },
+    "cerrar": "Tancar Sessió",
+    "historial": "Historial de Comandes"
+  },
+  "historialPedidos": {
+    "titulo": "Les Meves Comandes",
+    "tabla": {
+      "id": "ID Comanda",
+      "info": "Estat / Info",
+      "total": "Total"
+    },
+    "detalles": {
+      "vacio": "No s'han trobat comandes al teu historial."
+    }
+  },
+  "administrador": {
+    "titulo": "GESTIÓ DE LA CARTA",
+    "opciones": {
+        "modificar": "MODIFICAR CARTA",
+        "annadir": "AFEGIR A LA CARTA"
+    },
+    "modificar": {
+        "titulo": "CARTA",
+        "nombre": "Nom",
+        "categoria": "Categoria",
+        "precio": "Preu",
+        "acciones": "Accions"
+    },
+    "annadir": {
+        "titulo": "SELECCIONA L'ELEMENT A AFEGIR",
+        "seleccionar-elemento": "Selecciona l'element a introduir:",
+        "placeholder-elemento": "-- Tria una opció --",
+        "nombre-label": "Introdueix el seu nom:",
+        "nombre-placeholder": "nom.....",
+        "descripcion-label": "Descripció de l'element:",
+        "descripcion-placeholder": "element amb.....",
+        "precio-label": "Preu en €:",
+        "precio-placeholder": "17€.....",
+        "cantidad-label": "Quantitat:",
+        "cantidad-placeholder": "2.....",
+        "imagen-label": "Imatge:",
+        "imagen-placeholder": "URL de la imatge.....",
+        "ingredientes": "Ingredients",
+        "boton": "AFEGIR A LA CARTA"
+    }
+}
+}

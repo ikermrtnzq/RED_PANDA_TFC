@@ -1,0 +1,139 @@
+@use "variables" as *;
+@use "colores" as *;
+
+// TAMAÑO MOVIL
+@mixin mobile-down {
+	@media (max-width: #{$movil}) {
+		@content;
+	}
+}
+
+@mixin desktop-down {
+	@media (max-width: #{$desktop}) {
+		@content;
+	}
+}
+
+@mixin desktop-mediano-down {
+	@media (max-width: #{$desktop-mediano}) {
+		@content;
+	}
+}
+
+// TAMAÑO TABLET
+@mixin tablet-down {
+	@media (max-width: #{$tablet - 1px}) {
+		@content;
+	}
+}
+
+@mixin tablet-pequeña-down {
+	@media (max-width: #{$tablet-pequeña - 1px}) {
+		@content;
+	}
+}
+
+@mixin mobile-mediano-down {
+	@media (max-width: #{$mobile-mediano - 1px}) {
+		@content;
+	}
+}
+
+@mixin movil-grande-down {
+	@media (max-width: #{$movil-grande}) {
+		@content;
+	}
+}
+
+@mixin movil-pequeño-down {
+	@media (max-width: #{$movil-pequeño}) {
+		@content;
+	}
+}
+
+// BOTON MUY COMUN
+@mixin boton-rojo() {
+	border: none;
+	border-radius: 20px;
+	padding: 10px 20px;
+	background: $color-rojo-boton;
+	color: $color-texto-blanco;
+	font-weight: 600;
+	font-size: 16px;
+	transition: 200ms;
+	
+	&:hover {
+		transform: scale(1.05);
+	}
+	
+	&:active {
+		transform: scale(0.98);
+	}
+}
+
+@mixin alerta-base {
+	background-color: $color-fondo-header;
+	border: 1px solid $color-rojo-oscuro;
+	border-radius: 12px;
+	padding: 16px 20px;
+	color:$color-texto-blanco;
+	font-family: system-ui, -apple-system, sans-serif;
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+	
+	display: flex;
+	align-items: center;
+	gap: 16px;
+	
+	.icono-circulo {
+		background-color: $color-texto-blanco;
+		color: $color-fondo-header;
+		width: 22px;
+		height: 22px;
+		border-radius: 50%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-shrink: 0;
+		
+		.icono {
+			font-size: 12px;
+			font-weight: 900;
+		}
+	}
+	
+	.contenido {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 4px;
+	}
+	
+	.titulo {
+		margin: 0;
+		font-size: 15px;
+		font-weight: 600;
+		letter-spacing: 0.3px;
+	}
+	
+	.mensaje {
+		margin: 0;
+		font-size: 14px;
+		color: $color-blanco-sucioMas;
+	}
+	
+	.btn-carrito {
+		margin-top: 8px;
+		background-color: transparent;
+		color: $color-texto-blanco;
+		border: 1px solid $color-gris-oscuro;
+		padding: 6px 12px;
+		border-radius: 6px;
+		cursor: pointer;
+		font-size: 13px;
+		transition: background-color 0.2s ease;
+		
+		&:hover {
+			background-color: rgba(255, 255, 255, 0.1);
+		}
+	}
+}

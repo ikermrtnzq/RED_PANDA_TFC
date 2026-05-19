@@ -1,0 +1,282 @@
+{
+  "header": {
+    "titulo": "Red Panda",
+    "descripcion": "Saveurs Authentiques",
+    "nav": {
+      "inicio": "Accueil",
+      "tienda": "Boutique"
+    },
+    "botones": {
+      "iniciar": "Connexion",
+      "perfil": "Mon Profil"
+    }
+  },
+  "login": {
+    "email": "Email",
+    "pwd": "Mot de passe",
+    "placeHolderEmail": "votre{'@'}email.com",
+    "placeHolderName": "Votre nom",
+    "placeHolderPwd": "......",
+    "errorNombre": "incorrect",
+    "errorEmail": "incorrect",
+    "errorPwd": "incorrect",
+    "error": "Identifiants incorrects",
+    "error2": "Identifiants invalides",
+    "info": {
+      "infoInicio": {
+        "bienvenido": "Bon retour",
+        "ingresa": "Connectez-vous à votre compte et profitez de vos plats préférés"
+      },
+      "infoRegistro": {
+        "bienvenido": "Rejoignez-nous",
+        "ingresa": "Créez un compte et découvrez les meilleures saveurs asiatiques"
+      },
+      "pedido": {
+        "titulo": "Commandes rapides",
+        "descrip": "Enregistrez vos adresses et payez plus rapidement"
+      },
+      "historial": {
+        "titulo": "Historique des commandes",
+        "descrip": "Recommandez facilement vos plats préférés"
+      },
+      "ofertas": {
+        "titulo": "Offres exclusives",
+        "descrip": "Recevez des réductions et promotions spéciales"
+      }
+    },
+    "formIniciar": {
+      "inicio": "Connexion",
+      "noInicio": "Vous n'avez pas de compte ?",
+      "regist": "Inscrivez-vous"
+    },
+    "formRegistrar": {
+      "nombre": "Nom complet",
+      "inicio": "Créer un compte",
+      "noInicio": "Vous avez déjà un compte ?",
+      "regist": "Se connecter",
+      "terminos": "En vous inscrivant, vous acceptez nos Conditions Générales et notre Politique de Confidentialité"
+    }
+  },
+  "ingredientes": {
+    "pers": "Personnalisez votre plat",
+    "select": "Désélectionnez les ingrédients que vous souhaitez retirer",
+    "cancel": "Annuler",
+    "precio": "Prix",
+    "añadir": "Ajouter au panier"
+  },
+  "inicio": {
+    "descripcion": "Saveurs Authentiques",
+    "descripcionSpan": " d’Asie",
+    "descripcionLarga": "Découvrez la meilleure cuisine asiatique, préparée avec passion et livrée chez vous",
+    "tiempoEntrega": "Livraison en 30-45 minutes",
+    "razones": "Pourquoi Nous Choisir ?",
+    "razonesOpciones": {
+      "titulos": {
+        "chef": "Chefs Experts",
+        "ingredientes": "Ingrédients Frais",
+        "entrega": "Livraison Rapide",
+        "calidad": "Qualité Premium"
+      },
+      "detalle": {
+        "chef": "Nos chefs ont des années d’expérience dans la cuisine asiatique",
+        "ingredientes": "Nous sélectionnons les meilleurs ingrédients chaque jour",
+        "entrega": "Votre commande en 30-45 minutes ou gratuite",
+        "calidad": "Récompensés pour notre excellence"
+      }
+    },
+    "especialidades": "Nos spécialités",
+    "especialidadesDescripcion": "Découvrez notre sélection de plats authentiques",
+    "especialidadesOpciones": {
+      "titulos": {
+        "sushi": "Sushi",
+        "ramen": "Ramen",
+        "gyozas": "Gyozas",
+        "bebidas": "Boissons"
+      },
+      "detalle": {
+        "sushi": "Frais et délicieux",
+        "ramen": "Bouillons artisanaux",
+        "gyozas": "Bouchées parfaites",
+        "bebidas": "Bubble tea et plus"
+      }
+    },
+    "clientes": "Ce Que Disent Nos Clients",
+    "clientesDescripcion": "Des milliers de clients satisfaits",
+    "clientesOpciones": {
+      "nombre": {
+        "nombre1": "María González",
+        "nombre2": "Carlos Ruiz",
+        "nombre3": "Laura Martin"
+      },
+      "comentarios": {
+        "comentario1": "\"Le meilleur sushi que j’ai jamais goûté ! Frais, délicieux et livraison ultra rapide.\"",
+        "comentario2": "\"Le ramen est incroyable, il a exactement le goût du Japon. Totalement recommandé.\"",
+        "comentario3": "\"Nous avons commandé des dim sum pour toute la famille. Spectaculaire ! Nous recommanderons sûrement.\""
+      }
+    },
+    "listo": "Prêt à Commander ?",
+    "listoDescripcion": "Passez votre commande maintenant et profitez des meilleures saveurs asiatiques chez vous",
+    "botones": {
+      "pedir": "Commander Maintenant",
+      "verMenu": "Voir le Menu Complet"
+    }
+  },
+  "tienda": {
+    "titulo": "Notre Menu",
+    "descripcion": "Découvrez nos délices asiatiques",
+    "buscador": {
+      "buscar": "Rechercher des plats",
+      "categ": "Catégories"
+    },
+    "categorias": {
+      "todos": "Tous",
+      "sushi": "Sushi",
+      "ramen": "Ramen",
+      "dimsum": "Dim Sum",
+      "principales": "Plats principaux",
+      "bebidas": "Boissons",
+      "carne": "Viande",
+      "pescado": "Poisson",
+      "postres": "Desserts",
+      "entrantes": "Entrées"
+    },
+    "platos": {
+      "sushi_deluxe": {
+        "nombre": "Sushi Deluxe",
+        "desc": "Sélection premium de nigiri et maki avec poisson frais du jour"
+      },
+      "ramen_tonkotsu": {
+        "nombre": "Ramen Tonkotsu",
+        "desc": "Bouillon de porc crémeux cuit pendant 12 heures avec nouilles artisanales"
+      },
+      "dimsum_mix": {
+        "nombre": "Dim Sum Varié",
+        "desc": "Panier en bambou avec 6 pièces vapeur : crevettes, porc et légumes"
+      },
+      "pato_laqueado": {
+        "nombre": "Canard Laqué",
+        "desc": "Canard croustillant servi avec fines crêpes, ciboule et sauce hoisin"
+      }
+    },
+    "tarjeta-plato": {
+      "añadir": "Ajouter"
+    }
+  },
+  "carrito": {
+    "continuar": "Continuer les achats",
+    "titulo": "Votre Panier",
+    "productos-cantidad": "produits dans votre panier",
+    "carrito-vacio": "Votre panier est vide",
+    "propuesta-añadir": "Ajoutez de délicieux plats à votre panier",
+    "ver-menu": "Voir le Menu",
+    "resumen": "Résumé de la Commande",
+    "subtotal": "Sous-total",
+    "envio": "Livraison",
+    "total": "Total",
+    "pago": "Procéder au Paiement",
+    "estimo": "Livraison estimée : 30-45 min",
+    "envioGratis": "GRATUIT",
+    "envioGratisAlerta1": "Ajoutez",
+    "envioGratisAlerta2": "de plus pour la livraison gratuite",
+    "ingredientes": "Ingrédients retirés : "
+  },
+  "alertas": {
+    "annadir": {
+      "titulo": "AJOUTÉ !",
+      "mensaje": "a été ajouté au panier."
+    },
+    "eliminar": {
+      "titulo": "SUPPRIMÉ !",
+      "mensaje": "a été retiré du panier."
+    },
+    "exito": {
+      "titulo": "PAIEMENT RÉUSSI !",
+      "mensaje": "Le paiement a été effectué avec succès."
+    },
+    "verCarrito": "Voir le panier",
+    "creado": {
+      "titulo": "CRÉÉ",
+      "mensaje": "Le produit a été ajouté avec succès au menu"
+    },
+    "logueado": {
+      "titulo": "CONNEXION RÉUSSIE",
+      "mensaje": "Connexion au système réussie"
+    }
+  },
+  "footer": {
+    "descripcion": "Cuisine asiatique authentique préparée avec des ingrédients frais et des recettes traditionnelles.",
+    "titulos": {
+      "enlaces": "Liens Rapides",
+      "contacto": "Contact",
+      "horario": "Horaires"
+    },
+    "contacto": {
+      "calle": "Rue Principale 123, Madrid, Espagne",
+      "tlf": "+34 912 345 678",
+      "email": "info{'@'}redpanda.com"
+    },
+    "horario": {
+      "diario": "Lundi - Vendredi : 12:00 - 23:00",
+      "findes": "Samedi - Dimanche : 12:00 - 00:00"
+    },
+    "derechos": "© 2026 Red Panda. Tous droits réservés."
+  },
+  "usuario": {
+    "perfil": "Mon Profil",
+    "nombre": "Nom",
+    "email": "Email",
+    "prefer": "Préférence de langue",
+    "idiomas": {
+      "frances": "Français",
+      "ingles": "Anglais",
+      "chino": "Chinois",
+      "catalan": "Catalan",
+      "español": "Espagnol",
+      "japones": "Japonais"
+    },
+    "cerrar": "Déconnexion",
+    "historial": "Historique des Commandes"
+  },
+  "historialPedidos": {
+    "titulo": "Mes Commandes",
+    "tabla": {
+      "id": "ID Commande",
+      "info": "Statut / Info",
+      "total": "Total"
+    },
+    "detalles": {
+      "vacio": "Aucune commande trouvée dans votre historique."
+    }
+  },
+  "administrador": {
+    "titulo": "GESTION DU MENU",
+    "opciones": {
+        "modificar": "MODIFIER LE MENU",
+        "annadir": "AJOUTER AU MENU"
+    },
+    "modificar": {
+        "titulo": "MENU",
+        "nombre": "Nom",
+        "categoria": "Catégorie",
+        "precio": "Prix",
+        "acciones": "Actions"
+    },
+    "annadir": {
+        "titulo": "SÉLECTIONNEZ L'ÉLÉMENT À AJOUTER",
+        "seleccionar-elemento": "Sélectionnez l'élément à ajouter :",
+        "placeholder-elemento": "-- Choisissez une option --",
+        "nombre-label": "Entrez son nom :",
+        "nombre-placeholder": "nom.....",
+        "descripcion-label": "Description de l'élément :",
+        "descripcion-placeholder": "élément avec.....",
+        "precio-label": "Prix en € :",
+        "precio-placeholder": "17€.....",
+        "cantidad-label": "Quantité :",
+        "cantidad-placeholder": "2.....",
+        "imagen-label": "Image :",
+        "imagen-placeholder": "URL de l'image.....",
+        "ingredientes": "Ingrédients",
+        "boton": "AJOUTER AU MENU"
+    }
+}
+}
