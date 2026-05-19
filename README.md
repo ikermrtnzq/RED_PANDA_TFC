@@ -60,6 +60,7 @@ Asegúrate de tener instalado en tu entorno local:
 2. Dirigete a la carpeta `/frontend`y una vez ahí ejecuta el comando 'npm run dev', este levantará los servicios del frontend.
 
 **Cabe recalcar que para ejecutar el comando anterior es necesario haber instalado las librerias de npm : `npm install`**
+
 3. Una vez tenemos ambos servicios levantados nos dirigimos al navegador y nos dirigimos a la ruta `http://localhost:5173`
 
 ### Credenciales de Fábrica 📋 
